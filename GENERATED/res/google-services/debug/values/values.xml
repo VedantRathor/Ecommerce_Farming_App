@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1089918384238-fiogt24o945tpa23267nhvapi7jic8jj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1089918384238</string>
+    <string name="google_api_key" translatable="false">AIzaSyAm2wobnn3z6sp6QD5uMcmlQMm2MzXTLgE</string>
+    <string name="google_app_id" translatable="false">1:1089918384238:android:4c17926368f206dcd48e7f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAm2wobnn3z6sp6QD5uMcmlQMm2MzXTLgE</string>
+    <string name="google_storage_bucket" translatable="false">farming-app-2fc2a.appspot.com</string>
+    <string name="project_id" translatable="false">farming-app-2fc2a</string>
+</resources>
